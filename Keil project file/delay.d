@@ -1,0 +1,9 @@
+.\delay.o: C:\Keil\ARM\INC\TI\TM4C123\my_headers\delay.c
+.\delay.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\delay.o: C:\Keil\ARM\Inc\TI\TM4C123\TM4C123GH6PM.h
+.\delay.o: C:\Keil\ARM\CMSIS\Include\core_cm4.h
+.\delay.o: C:\Keil\ARM\CMSIS\Include\core_cmInstr.h
+.\delay.o: C:\Keil\ARM\CMSIS\Include\core_cmFunc.h
+.\delay.o: C:\Keil\ARM\CMSIS\Include\core_cm4_simd.h
+.\delay.o: C:\Keil\ARM\Inc\TI\TM4C123\system_TM4C123.h
+.\delay.o: C:\Keil\ARM\Inc\TI\TM4C123\MY_HEADERS/delay.h
